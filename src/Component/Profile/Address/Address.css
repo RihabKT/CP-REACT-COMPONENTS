@@ -1,0 +1,21 @@
+#address{
+    color: rgb(177, 18, 116);
+    font-weight: bolder;
+    font-size: 20px;
+    }
+
+    button{
+        margin-top: 40px;
+        border: none;
+        padding:8px;
+        font-weight: bold;
+        background-image: linear-gradient(to right, #c8e4da , rgb(18, 189, 132));
+        color: rgb(22, 78, 22);
+        font-size: 15px;
+      }
+      
+      button:hover{
+        box-shadow: -1px 32px 93px 1px rgba(27,94,72,0.94);
+      -webkit-box-shadow: -1px 32px 93px 1px rgba(27,94,72,0.94);
+      -moz-box-shadow: -1px 32px 93px 1px rgba(27,94,72,0.94);
+      }

@@ -1,0 +1,39 @@
+i{
+    width: 10%;
+    font-size: 30px;
+  }
+  
+  .newflex{
+    display:flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
+  .fa-envelope{
+    margin-top: 200px;
+    color: rgb(20, 120, 187);
+  }
+  
+  .fa-instagram{
+    color: palevioletred;
+  }
+  
+  .fa-github-square{
+    color: rgb(80, 177, 144);
+  }
+  
+  .email{
+  margin-top:205px;
+  color: rgb(48, 48, 121);
+  font-style: italic;
+  font-weight: bold;
+  
+  }
+  
+  .instagram,.github{
+    margin-top: 5px;
+    color: rgb(48, 48, 121);
+    font-style: italic;
+    font-weight: bold;
+  }
+  

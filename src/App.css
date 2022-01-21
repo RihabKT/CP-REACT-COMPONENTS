@@ -1,0 +1,10 @@
+.flexy{
+  display:flex;
+  justify-content: space-around;
+  align-items: flex-start;
+
+}
+
+.App{
+  background-color: rgb(194, 255, 212);
+}
